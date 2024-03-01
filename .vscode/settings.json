@@ -1,0 +1,9 @@
+{
+    "workbench.settings.useSplitJSON": false
+}
+
+{
+    "eslint.workingDirectories": [
+      "./{PATH_TO_CLIENT}" // replace {PATH_TO_CLIENT} with you own path
+    ]
+  }
